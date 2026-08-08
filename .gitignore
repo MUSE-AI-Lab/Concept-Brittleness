@@ -1,0 +1,51 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Editor/agent-local state
+.DS_Store
+.idea/
+.vscode/
+.agents/
+.codex/
+.workbuddy/
+
+# Credentials and local-only configuration
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+config/local*
+
+# Model weights, checkpoints, extracted features and generated outputs
+models/*
+!models/README.md
+checkpoints/
+feature/
+output/
+reference_selection/
+results_sae/
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+*.npy
+*.npz
+
+# Runtime logs and LaTeX build products
+*.log
+*.aux
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+Diffusion_Model_MM26/paper.pdf
+
