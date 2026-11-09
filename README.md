@@ -18,6 +18,8 @@
 <a href="https://doi.org/10.1145/3767308.3835084"><img src="https://img.shields.io/badge/Paper-ACM%20MM%202026-blue" alt="Paper"></a>
 <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-2.x-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch"></a>
 
+[English](README.md) · [简体中文](README_zh.md)
+
 </div>
 
 <p align="center"><img src="assets/teaser.jpg" width="90%"><br><em>Object-dependent concept brittleness: for a fixed concept, FLUX.1-dev succeeds on most objects but repeatedly fails on a few (four random seeds each).</em></p>
