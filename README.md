@@ -15,7 +15,7 @@
 **ACM MM 2026**
 
 <a href="https://arxiv.org/abs/2609.09909"><img src="https://img.shields.io/badge/arXiv-2609.09909-b31b1b" alt="arXiv"></a>
-<a href="https://doi.org/10.1145/3767308.3835084"><img src="https://img.shields.io/badge/Paper-ACM%20MM%202026-blue" alt="Paper"></a>
+<a href="https://dl.acm.org/doi/10.1145/3767308.3835084"><img src="https://img.shields.io/badge/Paper-ACM%20MM%202026-blue" alt="Paper"></a>
 <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-2.x-ee4c2c?logo=pytorch&logoColor=white" alt="PyTorch"></a>
 
 [English](README.md) · [简体中文](README_zh.md)
@@ -141,11 +141,11 @@ The backbone implementations in `src/` are adapted from the official FLUX.1, Sta
 ## 📝 Citation
 
 ```bibtex
-@inproceedings{yuan2026concept,
-  title     = {Interpreting Object-Dependent Concept Brittleness in Text-to-Image Diffusion Models},
-  author    = {Yuan, Yifan and Liu, Xiangyu and Shan, Hongming and Han, Yu and Jiang, Yu and Tan, Hao and Zhang, Junping and Shen, Linlin},
-  booktitle = {Proceedings of the 34th ACM International Conference on Multimedia (MM '26)},
-  year      = {2026},
-  doi       = {10.1145/3767308.3835084}
+@inproceedings{yuan2026interpreting,
+  title={Interpreting Object-Dependent Concept Brittleness in Text-to-Image Diffusion Models},
+  author={Yuan, Yifan and Liu, Xiangyu and Shan, Hongming and Han, Yu and Jiang, Yu and Tan, Hao and Zhang, Junping and Shen, Linlin},
+  booktitle={Proceedings of the 34th ACM International Conference on Multimedia},
+  pages={13993--14002},
+  year={2026}
 }
 ```
